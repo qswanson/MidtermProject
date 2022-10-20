@@ -3,7 +3,7 @@
 I enjoy **many** things and this website will detail those many things that I *myself* enjoy.  
 
 Below is a list of the things I enjoy the most:
-- [Sports](Page2)
+- [Sports](qswanson/MidtermProject/Page2)
 - [Video Games]()
 - [Family]()
 - [Food]()
