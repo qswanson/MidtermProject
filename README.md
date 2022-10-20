@@ -1,1 +1,4 @@
 # MidtermProject
+*markdown*
+**hello**
+hello
