@@ -18,3 +18,5 @@ way to pass the time, *if* you have nothing else productive to work on.
 </body>
 
 `
+
+Click [**return**](README.md) to go back to the homepage.
