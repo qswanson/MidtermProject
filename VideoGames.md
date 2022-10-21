@@ -13,7 +13,8 @@ way to pass the time, *if* you have nothing else productive to work on.
 </head>
 <body>
 <p>Do you enjoy playing video games?<p><br>
-<input type="radio"
+<input type="radio" name="yes">Yes<br>
+<input type="radio" name="no">No<br>
 
 </body>
 
